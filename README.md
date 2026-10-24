@@ -10,6 +10,7 @@ Llevo más de 4 años en centros de distribución de retail y uso datos para tom
 
 | Proyecto | Pregunta de negocio | Herramientas |
 |---|---|---|
+| [Capacidad de almacenamiento para la temporada alta](https://github.com/fvt1999pipe-eng/capacidad_cedis_temporada) | ¿Cuántas posiciones le faltan a cada centro de distribución en temporada alta? | Python, SQL, Excel |
 | [Diagnóstico integral de RappiPlus](https://github.com/fvt1999pipe-eng/analisis_rappiplus) | ¿Dónde se pierde rentabilidad y en qué paso abandonan los clientes? | SQL (PostgreSQL), Python, statsmodels, Power BI |
 | [Dashboard comercial de Andes Capital](https://github.com/fvt1999pipe-eng/dashboard_andes_capital) | ¿De dónde vienen los ingresos y qué segmentos crecen? | Power BI, DAX, modelo estrella |
 | [Dashboard de desempeño de Andes Retail](https://github.com/fvt1999pipe-eng/dashboard_andes_retail) | ¿Por qué cayeron los ingresos si el margen se mantuvo? | Power BI, Power Query, DAX |
@@ -22,4 +23,4 @@ Llevo más de 4 años en centros de distribución de retail y uso datos para tom
 - **Métodos:** análisis exploratorio · estadística y pruebas A/B · proyección de demanda y capacidad · modelado de datos
 - **Procesos:** S&OP · gestión de inventarios y abastecimiento · KPIs de supply chain
 
-Los proyectos de análisis se desarrollaron en el bootcamp de Análisis de Datos de TripleTen (2026) con datos del curso; cada README explica el problema, los datos, la metodología y los resultados.
+El proyecto de capacidad es un caso de estudio con datos ficticios, basado en un análisis real de S&OP. Los demás se desarrollaron en el bootcamp de Análisis de Datos de TripleTen (2026) con datos del curso; cada README explica el problema, los datos, la metodología y los resultados.
